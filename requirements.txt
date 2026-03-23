@@ -1,0 +1,11 @@
+pymatgen>=2023.0.0
+mp-api>=0.37.0
+matminer>=0.9.0
+numpy
+pandas
+scikit-learn
+xgboost
+umap-learn
+matplotlib
+seaborn
+tqdm
