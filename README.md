@@ -1,4 +1,4 @@
-# Electrolyte Optimizer — Phase 1
+# Electrolyte Optimizer 
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![PyMatGen](https://img.shields.io/badge/PyMatGen-2023-green)
