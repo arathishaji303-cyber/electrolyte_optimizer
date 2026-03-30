@@ -194,7 +194,7 @@ Phase 2 will implement conditional molecular generation using
 ## Author
 
 **Arathi Shaji**  
-Masters Student — Materials Informatics  
+Masters Student — Materials Science  
 GitHub: [@arathishaji303-cyber](https://github.com/arathishaji303-cyber)
 
 ---
